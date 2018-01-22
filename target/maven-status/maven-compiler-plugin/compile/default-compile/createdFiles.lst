@@ -1,0 +1,10 @@
+com\example\service\PartitionParamsService.class
+com\example\DemoApplication.class
+com\example\service\EmployeeService.class
+com\example\service\PartitionParamsServiceImpl.class
+com\example\model\Employee.class
+com\example\model\PartitionParams.class
+com\example\repository\EmployeeRepository.class
+com\example\controller\EmployeeController.class
+com\example\repository\PartitionParamsRepository.class
+com\example\service\EmployeeServiceImpl.class
